@@ -1,0 +1,1 @@
+const cotact="this is contact"
